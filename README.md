@@ -1,8 +1,15 @@
 # follower_Demo
 
 This instructions were tested on Ubuntu 16.04 and ROS Kinetic Kame.
+
+
+
 This instructions are supposed to be running on the remote PC. Please run the instructions below on your Remote PC. However, the part marked [TurtleBot] is the content that runs on SBC of TurtleBot3.
+
+
+
 Make sure to run the Bringup instructions before running the instructions below.
+
 
 
 
